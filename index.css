@@ -1,19 +1,18 @@
-@font-face {
-    font-family: "Acme";
-    src: url("Lato/Lato-Black.ttf") format("truetype");
-}
+@import url(
+         https://fonts.googleapis.com/css?family=Acme);
+
 html {
-    background-color : rgb(17, 17, 17);
+    background-color : black;
 }
 .XXLtext{
     color : white;
     text-align : center;
-    font-family : "Lato";
+    font-family : Acme;
     font-size : 128px;
 }
 .normaltext{
     color: white;
-    font-family: "Lato";
+    font-family: Acme;
     font-size: 32px;
 
 }
