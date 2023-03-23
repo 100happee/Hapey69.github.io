@@ -3,7 +3,7 @@
     src: url("Acme-Regular.ttf") format("truetype");
 }
 html {
-    background-color : rgb(17, 17, 17);
+    background-color : rgb(00, 00, 00);
 }
 .XXLtext{
     color : white;
