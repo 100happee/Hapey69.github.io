@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Acme";
-    src: url("Acme-Normal.ttf") format("truetype");
+    src: url("Acme-Regular.ttf") format("truetype");
 }
 html {
     background-color : rgb(17, 17, 17);
