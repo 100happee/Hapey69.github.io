@@ -8,12 +8,12 @@ html {
 .XXLtext{
     color : white;
     text-align : center;
-    font-family : "Lato";
+    font-family : "Acme";
     font-size : 128px;
 }
 .normaltext{
     color: white;
-    font-family: "Lato";
+    font-family: "Acme";
     font-size: 32px;
 
 }
